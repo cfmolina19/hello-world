@@ -4,4 +4,4 @@ Hi everyone.
 
 The name's Carlos Mollina.
 
-I wish to learn it all.
+That is all.
