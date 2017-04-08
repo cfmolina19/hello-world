@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi everyone.
+
+The name's Carlos Mollina.
+
+I wish to learn it all.
